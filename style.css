@@ -1,0 +1,50 @@
+.btn{
+background-color: blue;
+padding: 8px 25px;
+border-radius: 5px;
+
+}
+
+
+.btn:hover{
+cursor: pointer;
+
+background-color: chartreuse;
+
+border: 1px;
+}
+
+
+
+.button{
+    background-color: blue;
+    padding: 8px 25px;
+    border-radius: 5px;  
+
+}
+
+
+.button:active{
+
+
+
+    cursor: pointer;
+
+    background-color: chartreuse;
+    
+    border: 1px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
